@@ -1,0 +1,6 @@
+# Core dependencies
+pytest==9.1.1
+numpy==2.1.0
+
+# Optional
+matplotlib>=3.8
